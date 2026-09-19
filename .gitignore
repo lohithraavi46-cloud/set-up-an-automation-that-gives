@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+venv/
+.venv/
+env/
+.env/
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local configuration and secrets
+*.local
+
+# Runtime data and generated files
+*.db
+*.sqlite
+*.sqlite3
+outputs/
+uploads/
+work/
+
+# Logs
+*.log
+logs/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

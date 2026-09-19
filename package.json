@@ -1,0 +1,9 @@
+{
+  "name": "rythu-sodara-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rythu Sodara static frontend development server.",
+  "scripts": {
+    "start": "node frontend-server.js"
+  }
+}
